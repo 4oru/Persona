@@ -1,3 +1,5 @@
+package Persona;
+
 public class Persona {
     private String nombre, apellido, direccion,telefono, apodo, dni;
     private int edad;

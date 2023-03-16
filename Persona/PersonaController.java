@@ -1,3 +1,7 @@
+package Persona;
+
+import Persona.Persona;
+
 import java.util.Scanner;
 
 public class PersonaController {
@@ -23,8 +27,6 @@ public class PersonaController {
         persona.setApellido(apellido);
         persona.setEdad(edad);
         persona.setDni(dni);
-
     }
-
 }
 
